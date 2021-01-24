@@ -1,3 +1,4 @@
 beacon/build/*
 *.o
 *.pyc
+.shad0w_history
